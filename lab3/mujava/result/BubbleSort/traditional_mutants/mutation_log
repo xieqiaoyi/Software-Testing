@@ -1,0 +1,143 @@
+AORB_1:12:void_sort(int):n - i => n * i
+AORB_2:12:void_sort(int):n - i => n / i
+AORB_3:12:void_sort(int):n - i => n % i
+AORB_4:12:void_sort(int):n - i => n + i
+AORB_5:13:void_sort(int):j - 1 => j * 1
+AORB_6:13:void_sort(int):j - 1 => j / 1
+AORB_7:13:void_sort(int):j - 1 => j % 1
+AORB_8:13:void_sort(int):j - 1 => j + 1
+AORB_9:14:void_sort(int):j - 1 => j * 1
+AORB_10:14:void_sort(int):j - 1 => j / 1
+AORB_11:14:void_sort(int):j - 1 => j % 1
+AORB_12:14:void_sort(int):j - 1 => j + 1
+AORB_13:15:void_sort(int):j - 1 => j * 1
+AORB_14:15:void_sort(int):j - 1 => j / 1
+AORB_15:15:void_sort(int):j - 1 => j % 1
+AORB_16:15:void_sort(int):j - 1 => j + 1
+AORS_1:11:void_sort(int):i++ => i--
+AORS_2:12:void_sort(int):j++ => j--
+AOIU_1:9:void_sort(int):arr.length => -arr.length
+AOIU_2:14:void_sort(int):j => -j
+AOIU_3:15:void_sort(int):j => -j
+AOIU_4:16:void_sort(int):temp => -temp
+AOIS_1:9:void_sort(int):arr.length => arr.length++
+AOIS_2:9:void_sort(int):arr.length => arr.length--
+AOIS_3:11:void_sort(int):i => ++i
+AOIS_4:11:void_sort(int):i => --i
+AOIS_5:11:void_sort(int):i => i++
+AOIS_6:11:void_sort(int):i => i--
+AOIS_7:11:void_sort(int):n => ++n
+AOIS_8:11:void_sort(int):n => --n
+AOIS_9:11:void_sort(int):n => n++
+AOIS_10:11:void_sort(int):n => n--
+AOIS_11:12:void_sort(int):j => ++j
+AOIS_12:12:void_sort(int):j => --j
+AOIS_13:12:void_sort(int):j => j++
+AOIS_14:12:void_sort(int):j => j--
+AOIS_15:12:void_sort(int):n => ++n
+AOIS_16:12:void_sort(int):n => --n
+AOIS_17:12:void_sort(int):n => n++
+AOIS_18:12:void_sort(int):n => n--
+AOIS_19:12:void_sort(int):i => ++i
+AOIS_20:12:void_sort(int):i => --i
+AOIS_21:12:void_sort(int):i => i++
+AOIS_22:12:void_sort(int):i => i--
+AOIS_23:13:void_sort(int):j => ++j
+AOIS_24:13:void_sort(int):j => --j
+AOIS_25:13:void_sort(int):j => j++
+AOIS_26:13:void_sort(int):j => j--
+AOIS_27:13:void_sort(int):j => j++
+AOIS_28:13:void_sort(int):j => j--
+AOIS_29:14:void_sort(int):j => ++j
+AOIS_30:14:void_sort(int):j => --j
+AOIS_31:14:void_sort(int):j => j++
+AOIS_32:14:void_sort(int):j => j--
+AOIS_33:15:void_sort(int):j => ++j
+AOIS_34:15:void_sort(int):j => --j
+AOIS_35:15:void_sort(int):j => j++
+AOIS_36:15:void_sort(int):j => j--
+AOIS_37:16:void_sort(int):temp => ++temp
+AOIS_38:16:void_sort(int):temp => --temp
+AOIS_39:16:void_sort(int):temp => temp++
+AOIS_40:16:void_sort(int):temp => temp--
+ROR_1:11:void_sort(int): i < n  =>   i > n
+ROR_2:11:void_sort(int): i < n  =>   i >= n
+ROR_3:11:void_sort(int): i < n  =>   i <= n
+ROR_4:11:void_sort(int): i < n  =>   i == n
+ROR_5:11:void_sort(int): i < n  =>   i != n
+ROR_6:11:void_sort(int): i < n  =>   true
+ROR_7:11:void_sort(int): i < n  =>   false
+ROR_8:12:void_sort(int): j < n - i  =>   j > n - i
+ROR_9:12:void_sort(int): j < n - i  =>   j >= n - i
+ROR_10:12:void_sort(int): j < n - i  =>   j <= n - i
+ROR_11:12:void_sort(int): j < n - i  =>   j == n - i
+ROR_12:12:void_sort(int): j < n - i  =>   j != n - i
+ROR_13:12:void_sort(int): j < n - i  =>   true
+ROR_14:12:void_sort(int): j < n - i  =>   false
+ROR_15:13:void_sort(int): arr[j - 1] > arr[j]  =>   arr[j - 1] >= arr[j]
+ROR_16:13:void_sort(int): arr[j - 1] > arr[j]  =>   arr[j - 1] < arr[j]
+ROR_17:13:void_sort(int): arr[j - 1] > arr[j]  =>   arr[j - 1] <= arr[j]
+ROR_18:13:void_sort(int): arr[j - 1] > arr[j]  =>   arr[j - 1] == arr[j]
+ROR_19:13:void_sort(int): arr[j - 1] > arr[j]  =>   arr[j - 1] != arr[j]
+ROR_20:13:void_sort(int): arr[j - 1] > arr[j]  =>   true
+ROR_21:13:void_sort(int): arr[j - 1] > arr[j]  =>   false
+COI_1:11:void_sort(int): i < n  =>  !(i < n)
+COI_2:12:void_sort(int): j < n - i  =>  !(j < n - i)
+COI_3:13:void_sort(int): arr[j - 1] > arr[j]  =>  !(arr[j - 1] > arr[j])
+LOI_1:9:void_sort(int):arr.length => ~arr.length
+LOI_2:11:void_sort(int):i => ~i
+LOI_3:11:void_sort(int):n => ~n
+LOI_4:11:void_sort(int):i => ~i
+LOI_5:12:void_sort(int):j => ~j
+LOI_6:12:void_sort(int):n => ~n
+LOI_7:12:void_sort(int):i => ~i
+LOI_8:12:void_sort(int):j => ~j
+LOI_9:13:void_sort(int):j => ~j
+LOI_10:13:void_sort(int):j => ~j
+LOI_11:14:void_sort(int):j => ~j
+LOI_12:15:void_sort(int):j => ~j
+LOI_13:15:void_sort(int):j => ~j
+LOI_14:16:void_sort(int):j => ~j
+LOI_15:16:void_sort(int):temp => ~temp
+SDL_1:11:void_sort(int): int n = arr.length; int temp = 0; for (int i = 0; i < n; i++) {     for (int j = 1; j < n - i; j++) {         if (arr[j - 1] > arr[j]) {             temp = arr[j - 1];             arr[j - 1] = arr[j];             arr[j] = temp;         }     } }  =>   int n = arr.length; int temp = 0;
+SDL_2:12:void_sort(int): for (int j = 1; j < n - i; j++) {     if (arr[j - 1] > arr[j]) {         temp = arr[j - 1];         arr[j - 1] = arr[j];         arr[j] = temp;     } }  =>  
+SDL_3:20:void_sort(int): for (int i = 0; i < n; i++) {     for (int j = 1; j < n - i; j++) {         if (arr[j - 1] > arr[j]) {             temp = arr[j - 1];             arr[j - 1] = arr[j];             arr[j] = temp;         }     } }  =>   for (int i = 0;; i++) {     for (int j = 1; j < n - i; j++) {         if (arr[j - 1] > arr[j]) {             temp = arr[j - 1];             arr[j - 1] = arr[j];             arr[j] = temp;         }     } }
+SDL_4:20:void_sort(int): for (int i = 0; i < n; i++) {     for (int j = 1; j < n - i; j++) {         if (arr[j - 1] > arr[j]) {             temp = arr[j - 1];             arr[j - 1] = arr[j];             arr[j] = temp;         }     } }  =>   for (int i = 0; i < n;) {     for (int j = 1; j < n - i; j++) {         if (arr[j - 1] > arr[j]) {             temp = arr[j - 1];             arr[j - 1] = arr[j];             arr[j] = temp;         }     } }
+SDL_5:13:void_sort(int): if (arr[j - 1] > arr[j]) {     temp = arr[j - 1];     arr[j - 1] = arr[j];     arr[j] = temp; }  =>  
+SDL_6:19:void_sort(int): for (int j = 1; j < n - i; j++) {     if (arr[j - 1] > arr[j]) {         temp = arr[j - 1];         arr[j - 1] = arr[j];         arr[j] = temp;     } }  =>   for (int j = 1;; j++) {     if (arr[j - 1] > arr[j]) {         temp = arr[j - 1];         arr[j - 1] = arr[j];         arr[j] = temp;     } }
+SDL_7:19:void_sort(int): for (int j = 1; j < n - i; j++) {     if (arr[j - 1] > arr[j]) {         temp = arr[j - 1];         arr[j - 1] = arr[j];         arr[j] = temp;     } }  =>   for (int j = 1; j < n - i;) {     if (arr[j - 1] > arr[j]) {         temp = arr[j - 1];         arr[j - 1] = arr[j];         arr[j] = temp;     } }
+SDL_8:16:void_sort(int): temp = arr[j - 1]; arr[j - 1] = arr[j]; arr[j] = temp;  =>   arr[j - 1] = arr[j]; arr[j] = temp;
+SDL_9:16:void_sort(int): temp = arr[j - 1]; arr[j - 1] = arr[j]; arr[j] = temp;  =>   temp = arr[j - 1]; arr[j] = temp;
+SDL_10:16:void_sort(int): temp = arr[j - 1]; arr[j - 1] = arr[j]; arr[j] = temp;  =>   temp = arr[j - 1]; arr[j - 1] = arr[j];
+SDL_11:18:void_sort(int): if (arr[j - 1] > arr[j]) {     temp = arr[j - 1];     arr[j - 1] = arr[j];     arr[j] = temp; }  =>   if (true) {     temp = arr[j - 1];     arr[j - 1] = arr[j];     arr[j] = temp; }
+VDL_1:11:void_sort(int):i < n => n
+VDL_2:11:void_sort(int):i < n => i
+VDL_3:11:void_sort(int):i++ =>  
+VDL_4:12:void_sort(int):n - i => i
+VDL_5:12:void_sort(int):n - i => n
+VDL_6:12:void_sort(int):j < n - i => n - i
+VDL_7:12:void_sort(int):j++ =>  
+VDL_8:13:void_sort(int):j - 1 => 1
+VDL_9:13:void_sort(int):arr[j - 1] > arr[j] => arr[j]
+VDL_10:13:void_sort(int):arr[j - 1] > arr[j] => arr[j - 1]
+VDL_11:14:void_sort(int):j - 1 => 1
+VDL_12:15:void_sort(int):j - 1 => 1
+ODL_1:11:void_sort(int):i < n => i
+ODL_2:11:void_sort(int):i < n => n
+ODL_3:11:void_sort(int):i++ => i
+ODL_4:12:void_sort(int):n - i => n
+ODL_5:12:void_sort(int):n - i => i
+ODL_6:12:void_sort(int):j < n - i => j
+ODL_7:12:void_sort(int):j < n - i => n - i
+ODL_8:12:void_sort(int):j++ => j
+ODL_9:13:void_sort(int):j - 1 => j
+ODL_10:13:void_sort(int):j - 1 => 1
+ODL_11:13:void_sort(int):arr[j - 1] > arr[j] => arr[j - 1]
+ODL_12:13:void_sort(int):arr[j - 1] > arr[j] => arr[j]
+ODL_13:14:void_sort(int):j - 1 => j
+ODL_14:14:void_sort(int):j - 1 => 1
+ODL_15:15:void_sort(int):j - 1 => j
+ODL_16:15:void_sort(int):j - 1 => 1
+CDL_1:13:void_sort(int):j - 1 => j
+CDL_2:14:void_sort(int):j - 1 => j
+CDL_3:15:void_sort(int):j - 1 => j
