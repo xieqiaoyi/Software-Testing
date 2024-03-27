@@ -1,0 +1,222 @@
+INFO:Fri Mar 22 17:28:01 CST 2024 test @BeforeClass ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 1: inputnumber: 1 expectedresult: 1 calculatedresult: 1
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 1 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 2: inputnumber: 2 expectedresult: 1 calculatedresult: 1
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 2 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 3: inputnumber: 3 expectedresult: 2 calculatedresult: 2
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 3 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 4: inputnumber: 4 expectedresult: 4 calculatedresult: 4
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 4 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 5: inputnumber: 5 expectedresult: 6 calculatedresult: 6
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 5 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 6: inputnumber: 6 expectedresult: 9 calculatedresult: 9
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 6 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 7: inputnumber: 7 expectedresult: 12 calculatedresult: 12
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 7 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 8: inputnumber: 8 expectedresult: 18 calculatedresult: 18
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 8 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 9: inputnumber: 9 expectedresult: 27 calculatedresult: 27
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 9 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 10: inputnumber: 10 expectedresult: 36 calculatedresult: 36
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 10 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 11: inputnumber: 11 expectedresult: 54 calculatedresult: 54
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 11 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 12: inputnumber: 12 expectedresult: 81 calculatedresult: 81
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 12 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 13: inputnumber: 13 expectedresult: 108 calculatedresult: 108
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 13 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 14: inputnumber: 14 expectedresult: 162 calculatedresult: 162
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 14 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 15: inputnumber: 15 expectedresult: 243 calculatedresult: 243
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 15 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 16: inputnumber: 16 expectedresult: 324 calculatedresult: 324
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 16 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 17: inputnumber: 17 expectedresult: 486 calculatedresult: 486
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 17 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 18: inputnumber: 18 expectedresult: 729 calculatedresult: 729
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 18 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 19: inputnumber: 19 expectedresult: 972 calculatedresult: 972
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 19 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 20: inputnumber: 20 expectedresult: 1458 calculatedresult: 1458
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 20 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 21: inputnumber: 21 expectedresult: 2187 calculatedresult: 2187
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 21 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 22: inputnumber: 22 expectedresult: 2916 calculatedresult: 2916
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 22 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 23: inputnumber: 23 expectedresult: 4374 calculatedresult: 4374
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 23 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 24: inputnumber: 24 expectedresult: 6561 calculatedresult: 6561
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 24 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 25: inputnumber: 25 expectedresult: 8748 calculatedresult: 8748
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 25 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 26: inputnumber: 26 expectedresult: 13122 calculatedresult: 13122
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 26 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 27: inputnumber: 27 expectedresult: 19683 calculatedresult: 19683
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 27 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 28: inputnumber: 28 expectedresult: 26244 calculatedresult: 26244
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 28 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 29: inputnumber: 29 expectedresult: 39366 calculatedresult: 39366
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 29 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 30: inputnumber: 30 expectedresult: 59049 calculatedresult: 59049
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 30 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 31: inputnumber: 31 expectedresult: 78732 calculatedresult: 78732
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 31 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 32: inputnumber: 32 expectedresult: 118098 calculatedresult: 118098
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 32 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 33: inputnumber: 33 expectedresult: 177147 calculatedresult: 177147
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 33 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 34: inputnumber: 34 expectedresult: 236196 calculatedresult: 236196
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 34 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 35: inputnumber: 35 expectedresult: 354294 calculatedresult: 354294
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 35 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 36: inputnumber: 36 expectedresult: 531441 calculatedresult: 531441
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 36 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 37: inputnumber: 37 expectedresult: 708588 calculatedresult: 708588
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 37 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 38: inputnumber: 38 expectedresult: 1062882 calculatedresult: 1062882
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 38 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 39: inputnumber: 39 expectedresult: 1594323 calculatedresult: 1594323
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 39 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 40: inputnumber: 40 expectedresult: 2125764 calculatedresult: 2125764
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 40 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 41: inputnumber: 41 expectedresult: 3188646 calculatedresult: 3188646
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 41 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 42: inputnumber: 42 expectedresult: 4782969 calculatedresult: 4782969
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 42 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 43: inputnumber: 43 expectedresult: 6377292 calculatedresult: 6377292
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 43 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 44: inputnumber: 44 expectedresult: 9565938 calculatedresult: 9565938
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 44 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 45: inputnumber: 45 expectedresult: 14348907 calculatedresult: 14348907
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 45 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 46: inputnumber: 46 expectedresult: 19131876 calculatedresult: 19131876
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 46 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 47: inputnumber: 47 expectedresult: 28697814 calculatedresult: 28697814
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 47 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 48: inputnumber: 48 expectedresult: 43046721 calculatedresult: 43046721
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 48 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 49: inputnumber: 49 expectedresult: 57395628 calculatedresult: 57395628
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 49 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 50: inputnumber: 50 expectedresult: 86093442 calculatedresult: 86093442
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 50 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 51: inputnumber: 51 expectedresult: 129140163 calculatedresult: 129140163
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 51 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 52: inputnumber: 52 expectedresult: 172186884 calculatedresult: 172186884
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 52 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 53: inputnumber: 53 expectedresult: 258280326 calculatedresult: 258280326
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 53 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 54: inputnumber: 54 expectedresult: 387420489 calculatedresult: 387420489
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 54 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Before ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test 55: inputnumber: 55 expectedresult: 516560652 calculatedresult: 516560652
+INFO:Fri Mar 22 17:28:01 CST 2024 test @Test 55 ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @After ok
+INFO:Fri Mar 22 17:28:01 CST 2024 test @AfterClass ok
